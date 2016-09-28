@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="backgroudColor">#000000</color>
+    <color name="headerButtonTextColor">#ffffff</color>
+    <color name="headerButtonColor">@color/colorPrimary</color>
+    <color name="headerButtonSelectedColor">@color/colorPrimaryDark</color>
+    <color name="headerButtonSelectedTextColor">#f780df</color>
+    <color name="subHeaderBackgroudColor">#000000</color>
+    <color name="subHeaderTextColor">#ffffff</color>
+    <color name="searchButtonColor">#3eff4081</color>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Music Player</string>
+    <string name="header_button0_text">Player</string>
+    <string name="header_button1_text">Playlists</string>
+    <string name="header_button2_text">Albums</string>
+    <string name="header_button3_text">Tracks</string>
+    <string name="header_button4_text">Get Music</string>
+    <string name="search_button1_text">Search by Song Title</string>
+    <string name="search_button2_text">Search by Artist</string>
+    <string name="search_button3_text">Search by Album Title</string>
+</resources>
